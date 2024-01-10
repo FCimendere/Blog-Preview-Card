@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img width="600" alt="screenshot for blog preview card desktop desing" src="">
+<img width="800" alt="Screenshot 2024-01-10 at 21 10 13" src="https://github.com/FCimendere/Blog-Preview-Card/assets/65401609/48a64535-941a-40ae-b7b2-ee926737d0b2">
 
 ### Links
 
@@ -57,9 +57,9 @@ Users should be able to:
 
 ### Continued development
 
-I'm following the web development bootcamp to learn HTML,CSS,JS. I will continue full stack development in future.
+I'm following the web development bootcamp to learn HTML, CSS, and JS. I will continue full-stack development in the future.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/FCimendere)
-- Twitter - [@yourusername](https://twitter.com/fly_pixie)
+- Frontend Mentor - [@FCimendere](https://www.frontendmentor.io/profile/FCimendere)
+- Twitter - [@fly_pixie](https://twitter.com/fly_pixie)
